@@ -2,10 +2,9 @@
 java의 정석 스터디
 
 ## 참고 링크
-- [스터디 일정](https://docs.google.com/spreadsheets/d/1cDCIDRYaacL87n_VOvuyF7EEgXeajC8p7axvxzYmIVE/edit#gid=0){:target="_blank"}
-- [책 정보 링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001){:target="_blank"}
-- [책 공부 방법] (https://soozl91.tistory.com/42){:target="_blank"}
-
+- [스터디 일정](https://docs.google.com/spreadsheets/d/1cDCIDRYaacL87n_VOvuyF7EEgXeajC8p7axvxzYmIVE/edit#gid=0)
+- [책 정보 링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001)
+- [책 공부 방법](https://soozl91.tistory.com/42)
 
 ## 1. 자바를 시작하기 전에
 ## 2. 변수(Variable)
